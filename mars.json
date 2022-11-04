@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Crisp",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 11 Pro",
+			"filename": "DerpFest-13-Community-Tango-mars-20221103-0641.zip",
+			"download": "https://github.com/Crispsu/Derp_OTA/archive/refs/tags/update.zip",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": "",
+			"version": "tengo",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/MarsStarDevelopment",
+			"dt": "https://github.com/Crispsu/android_device_xiaomi_mars/tree/derp",
+			"common-dt": "https://github.com/Crispsu/android_device_xiaomi_sm8350-common/tree/derp",
+			"kernel": "https://github.com/FlowerSea0208/kernel_xiaomi_mars"
+		}
+	]
+}
